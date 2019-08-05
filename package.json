@@ -1,6 +1,6 @@
 {
   "name": "@twilio-labs/serverless-twilio-runtime",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Serverless framework integartion for Twilio runtime",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "twilio",
+    "twilio functions",
     "serverless",
     "serverless framework"
   ],
@@ -25,6 +26,6 @@
   },
   "homepage": "https://github.com/twilio-labs/serverless-framework-integration#readme",
   "dependencies": {
-    "@twilio-labs/serverless-api": "^1.0.0-rc.1"
+    "@twilio-labs/serverless-api": "^1.0.1"
   }
 }
